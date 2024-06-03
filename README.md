@@ -22,6 +22,8 @@ We encourage you to share your desire with the club and let us help you use the 
 
 - **Sharpen your saw(and earn badges):** We offer top-notch training sessions and workshops to hone your skills. Plus, you can showcase your expertise by earning badges that demonstrate your mastery. [... read more](./learning/readme.md)
 
+-**Earn while you learn with our bounties:** Complete learning challenges and earn real money, starting from $5 and up. Showcase your expertise by earning badges that validate your mastery. [Read more about bounties](./bounties/readme.md)
+
 - **Find clients & collaborators:** Forget endless job boards. Dominate Club connects you with real project opportunities from both clients and fellow members.
 
 - **Be your own boss, but not alone:** We empower you to run your freelance business with confidence, but with the backing of a supportive network.
