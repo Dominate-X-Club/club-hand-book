@@ -59,9 +59,9 @@ Here's a look at our current sponsors:
 
 | Company | Founder | Sponsorship/Year | Industry |
 | -------- | ------- |-------- | ------- |
-| [Umun Tech](https://umun.in) | [Abhinav Singhal](x.com/umunbeing) | $4500 | Tech, Products + Services |
+| [Umun Tech](https://umun.in) | [Abhinav Singhal](https://x.com/umunbeing) | $4500 | Tech, Products + Services |
 | [Katchin Tech](https://katchintech.com/) | [Rohan Sethi](https://x.com/rohanalone1) | $4500 | Tech, Services |
-| [QID](https://oneqid.com/) | [Manu Arya](x.com/firsthumanmanu) | $3000 | Tech Product |
+| [QID](https://oneqid.com/) | [Manu Arya](https://x.com/firsthumanmanu) | $3000 | Tech Product |
 | [Noisiv Consulting](https://noisivconsulting.com/) | [Saurav Mitra](https://x.com/ksmontweet) | $1500 | Tech + Marketing |
 
 We appreciate their commitment to empowering the next generation of freelancers and digital nomads!

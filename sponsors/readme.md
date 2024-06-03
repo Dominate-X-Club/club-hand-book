@@ -44,16 +44,16 @@ Contact us today to discuss a custom sponsorship package that meets your specifi
 
 #### Contact Founding Sponsor:
 
-Twitter: [Abhinav Singhal](X.com/umunBeing) 
+Twitter: [Abhinav Singhal](https://x.com/umunBeing) 
 Email: [abhinav\@umun.in](mailto:abhinav@umun.in)
 
 ### Dominate Club's Sponsors
 
 | Company | Founder | Sponsorship/Year | Industry |
 | -------- | ------- |-------- | ------- |
-| [Umun Tech](https://umun.in) | [Abhinav Singhal](x.com/umunbeing) | $4500 | Tech, Products + Services |
+| [Umun Tech](https://umun.in) | [Abhinav Singhal](https://x.com/umunbeing) | $4500 | Tech, Products + Services |
 | [Katchin Tech](https://katchintech.com/) | [Rohan Sethi](https://x.com/rohanalone1) | $4500 | Tech, Services |
-| [QID](https://oneqid.com/) | [Manu Arya](x.com/firsthumanmanu) | $3000 | Tech Product |
+| [QID](https://oneqid.com/) | [Manu Arya](https://x.com/firsthumanmanu) | $3000 | Tech Product |
 | [Noisiv Consulting](https://noisivconsulting.com/) | [Saurav Mitra](https://x.com/ksmontweet) | $1500 | Tech + Marketing |
 
 

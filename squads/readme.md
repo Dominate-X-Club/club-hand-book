@@ -37,15 +37,15 @@ Once you join the Club, you can explore the available Squads, their focus areas,
  
 * **Ashish Squad (Discord: [link](https://discord.gg/kb3mzzkd))**
   * **Focus:** This Squad contributes to the club's open-source and potentially closed-source projects, diving deep into the world of code.
-  * **Founding Mentor:** [Ashish Kumar](x.com/codewithashish) - An expert in open-source development, ready to share their knowledge and help you make a difference.
+  * **Founding Mentor:** [Ashish Kumar](https://x.com/codewithashish) - An expert in open-source development, ready to share their knowledge and help you make a difference.
 
 * **OSS Squad (Discord: [link](https://discord.gg/WeabxAMm))**
   * **Focus:** This Squad specifically tackles the club's open-source projects, offering a platform to collaborate on code and contribute to the larger developer community.
-  * **Founding Mentor:** [Rohit Gupta](x.com/whyrohitwhy) - A seasoned developer who will guide you through the intricacies of open-source projects.
+  * **Founding Mentor:** [Rohit Gupta](https://x.com/whyrohitwhy) - A seasoned developer who will guide you through the intricacies of open-source projects.
 Social Media Squad:
 
 * **[The Tweet Team](./the-tweet-team.md) (Discord: [link](https://discord.gg/EGz7b8Hz))**
   * **Focus:** This Squad helps Dominate Club and its members master the art of Twitter growth. You'll learn strategies for creating engaging content, building your audience, and leveraging social media to achieve your goals.
-  * **Founding Mentor:** [Abhinav Singhal](x.com/umunbeing) - Founder of the Dominate club who will equip you with the skills to dominate Twitter 🚀.
+  * **Founding Mentor:** [Abhinav Singhal](https://x.com/umunbeing) - Founder of the Dominate club who will equip you with the skills to dominate Twitter 🚀.
 
 **Together in a Squad, you'll gain the focused support, collaboration, and camaraderie needed to thrive in the remote world.**
