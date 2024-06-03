@@ -35,7 +35,7 @@ Dominate X Club empowers you to **thrive in the dynamic world of remote work,** 
 
 Each learning track is led by a **Founding Mentor** – an industry expert who curates the curriculum, assigns other mentors, and provides overall guidance. Throughout each track, you'll have access to experienced mentors who offer personalized support and answer your questions.
 
-#### Embrace Tailored Learning Experiences:**
+#### Embrace Tailored Learning Experiences:
 
 We understand that everyone learns differently. That's why we offer a variety of learning formats to suit your style:
 
