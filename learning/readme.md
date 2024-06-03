@@ -1,10 +1,10 @@
 ## Dominate Your Career Journey with Dominate X Club
 
-**Unleash Your Potential with World-Class Learning**
+### Unleash Your Potential with World-Class Learning
 
 Dominate X Club empowers you to **thrive in the dynamic world of remote work,**  whether you're a **freelancer, aspiring entrepreneur, or employee seeking to upskill or get hired.**  Our comprehensive learning platform offers a variety of **structured learning tracks, workshops, and mentorship opportunities** designed to help you achieve your career goals.
 
-**Explore a Range of Curated Learning Tracks:**
+### Explore a Range of Curated Learning Tracks:
 
 * **Freelancing & Entrepreneurship:**
     * **UI/UX Design & Web Development (Open-Source Track!):** Master in-demand skills for crafting beautiful and user-friendly websites and apps. Learn Figma, other design tools, and essential website design principles. Contribute to real-world projects and gain practical experience through open-source collaboration.
@@ -31,11 +31,11 @@ Dominate X Club empowers you to **thrive in the dynamic world of remote work,** 
     * **Leveraging AI in Your Business:** Explore how Artificial Intelligence can automate tasks, improve efficiency, and gain a competitive edge.
 
 
-**Benefit from Expert Mentorship & Guidance:**
+### Benefit from Expert Mentorship & Guidance:
 
 Each learning track is led by a **Founding Mentor** – an industry expert who curates the curriculum, assigns other mentors, and provides overall guidance. Throughout each track, you'll have access to experienced mentors who offer personalized support and answer your questions.
 
-**Embrace Tailored Learning Experiences:**
+#### Embrace Tailored Learning Experiences:**
 
 We understand that everyone learns differently. That's why we offer a variety of learning formats to suit your style:
 
@@ -45,11 +45,11 @@ We understand that everyone learns differently. That's why we offer a variety of
 * **Open-Source Projects (on select tracks):** Contribute to real-world projects, gain practical experience, and give back to the community.
 
 
-**Earn Stackable Badges to Showcase Your Skills:**
+### Earn Stackable Badges to Showcase Your Skills:
 
 Dominate X Club doesn't issue traditional certificates – we offer **stackable badges!** These digital badges represent your achievements within a learning track. As you progress through modules, projects, and assessments, you'll earn badges that showcase the specific skills and knowledge you've acquired.
 
-**Level Up Your Expertise on a Never-Ending Journey:**
+#### Level Up Your Expertise on a Never-Ending Journey:
 
 Our learning tracks are designed with a progressive structure, allowing you to advance at your own pace. Whether you're a complete beginner or a seasoned professional, Dominate X Club can help you expand your knowledge and refine your skills. Our tracks offer a range of difficulty levels:
 
@@ -58,15 +58,31 @@ Our learning tracks are designed with a progressive structure, allowing you to a
 * **Apply Your Knowledge (Level 2 & 3):** Put your knowledge to work through practical scenarios and develop essential skills.
 * **Deepen Your Expertise (Level 4 & Beyond):** Dive deeper into advanced topics and tackle complex challenges to become a true expert in your field. 
 
-**Stack Your Badges & Validate Your Skills:**
+#### Stack Your Badges & Validate Your Skills:
 
 Each badge you earn within a learning track represents a valuable skill or piece of knowledge. By stacking badges, you create a visual representation of your learning journey and expertise. These badges can be shared on your online profiles, portfolios, and resumes, demonstrating your qualifications to potential clients, employers, or collaborators.
 
-**Flexible Learning Schedule Designed for Busy Lives:**
+### Unleash Your Earning Potential with #DominateBounty!
+
+**Learn, Challenge Yourself, and Get Rewarded!**
+
+Dominate X Club isn't just about acquiring skills - it's about putting them to the test and getting rewarded for your hard work. Introducing **Bounty Parties**, a fun and engaging way to **earn real money** while solidifying your knowledge within a learning track.
+
+#### Here's how bounties works:
+
+* Throughout your learning journey, you'll encounter **optional bounty challenges**. These challenges are designed to test your understanding of the concepts you're learning.
+* Each bounty challenge offers a **cash prize pool** of **$5 and above**. The more complex the challenge, the bigger the prize!
+* **Everyone who completes the challenge** will receive a **certificate** recognizing their accomplishment.
+* The participant with the **best overall performance** wins the **top cash prize** and an additional **special certificate**.
+
+[Read more about bounties](./../bounties/readme.md)
+
+
+### Flexible Learning Schedule Designed for Busy Lives:
 
 Dominate X Club recognizes the busy schedules of freelancers, digital nomads, and working professionals.  Our learning platform offers a **flexible schedule** that allows you to fit learning into your own time constraints. Many live classes are recorded, and on-demand content is available 24/7. 
 
 
-**Continuous Improvement Based on Your Needs:**
+### Continuous Improvement Based on Your Needs:**
 
 We're constantly evolving and expanding our learning offerings based on member feedback and industry trends.  Stay tuned for exciting new learning tracks
