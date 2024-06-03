@@ -18,9 +18,9 @@ We encourage you to share your desire with the club and let us help you use the 
 
 #### For Freelancers:
 
-- **Become part of a virtual team:** Ditch the solo grind and access the collective power of a skilled community. We work together on projects, share knowledge, and support each other's success.
+- **Become part of a virtual team:** Ditch the solo grind and access the collective power of a skilled community. We work together on projects, share knowledge, and support each other's success. [...squads at Dominate Club](./squads/readme.md)
 
-- **Sharpen your saw(and earn badges):** We offer top-notch training sessions and workshops to hone your skills. Plus, you can showcase your expertise by earning badges that demonstrate your mastery. [... read more](./learning/learning.md)
+- **Sharpen your saw(and earn badges):** We offer top-notch training sessions and workshops to hone your skills. Plus, you can showcase your expertise by earning badges that demonstrate your mastery. [... read more](./learning/readme.md)
 
 - **Find clients & collaborators:** Forget endless job boards. Dominate Club connects you with real project opportunities from both clients and fellow members.
 
