@@ -11,6 +11,7 @@ The subjects that are required for a working professional in a tech company.
 - [ ] Software Engineering
 - [ ] Business Analysis
 - [ ] Full Stack Development
+- [ ] Website Development with Wordpress
 - [ ] Data Structures and Algorithms
 - [ ] Web 3
 - [ ] Testing (QA and e2e both)
