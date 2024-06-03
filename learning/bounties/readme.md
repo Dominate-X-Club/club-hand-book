@@ -23,7 +23,7 @@ Here, you can **hone your skills, test your knowledge, and get rewarded** for yo
 
 **Creating Bounties (Current Process):**
 
-1. To propose a bounty, reach out to **[Abhinav Singhal](x.com/umunbeing)** or email **contact@umun.in**. 
+1. To propose a bounty, reach out to **[Abhinav Singhal](https://x.com/umunbeing)** or email **contact@umun.in**. 
 2. In the future, bounty creation will be seamlessly integrated within the Dominate X Club app.
 
 **Bounty Promotion:**
