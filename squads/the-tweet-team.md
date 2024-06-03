@@ -11,7 +11,7 @@ Hi, I am [Abhinav Singhal](https://x.com/umunbeing), I am a tech enthusiast with
 
 I am looking for individuals who are hungry for knowledge and believe in giving back to the community!
 
-## `#umun01k` Squad Goal
+## Squad Goal
 - Grow to 1K Twitter Followers
 - Make friends in the developer community 
 - Have a lot of fun
