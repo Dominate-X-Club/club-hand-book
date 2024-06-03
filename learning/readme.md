@@ -12,7 +12,7 @@ Dominate X Club empowers you to **thrive in the dynamic world of remote work,** 
     * **Startup Fundamentals:**  Turn your innovative ideas into reality. Explore fundraising strategies, business model development, essential legal considerations, and how to build a successful startup team. 
 
 * **Tech & Career Development:**
-    * **Software Engineering:** Deepen your coding expertise in various programming languages and frameworks. 
+    * **Software Engineering:** From coder to Software Engineer - Master the SDLC & build right. 
     * **Data Science & Analytics:**  Learn how to extract valuable insights from data to make informed decisions. 
     * **Business Analysis:** Bridge the gap between business needs and technical solutions. 
     * **Full Stack Development:** Become a versatile developer who can handle both front-end and back-end aspects of web development. 
