@@ -46,10 +46,11 @@ We encourage you to share your desire with the club and let us help you use the 
 
 ### Ready to join the Dominate Club family?
 
-**Membership is selective.** To join our elite group, you'll need an invitation from a current member and must demonstrate your online earning potential by winning a paid bounty.
+**Membership is selective.** To join our elite group, you'll need an invitation from a current member and must demonstrate your online earning potential by winning a paid [bounty](./bounties/readme.md).
 
 Think you have what it takes? Reach out to a Dominate Club member or keep an eye out for bounty announcements!
 
+Read Club Membership Guidelines [here](./guidelines/how-to-become-a-member.md).
 
 ### Dominate X Club: Proudly Supported By Our Sponsors
 
