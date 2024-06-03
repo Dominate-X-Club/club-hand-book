@@ -2,7 +2,7 @@
 
 ## Vision
 
-At [@dominateXclub](https://x.com/dominatexclub), we strive to build an unparalleled capitalist, democratic community of independent digital nomads, co-operatively act as a tech unicorn 🦄.
+At [@dominateXclub](https://x.com/dominatexclub), we strive to build an unparalleled capitalist, democratic community of independent digital nomads, who co-operatively act as a tech unicorn 🦄.
 
 ### Say What?
 
