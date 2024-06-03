@@ -44,7 +44,7 @@ Once you join the Club, you can explore the available Squads, their focus areas,
   * **Founding Mentor:** [Rohit Gupta](x.com/whyrohitwhy) - A seasoned developer who will guide you through the intricacies of open-source projects.
 Social Media Squad:
 
-* **The Tweet Team (Discord: [link](https://discord.gg/EGz7b8Hz))**
+* **[The Tweet Team](./the-tweet-team.md) (Discord: [link](https://discord.gg/EGz7b8Hz))**
   * **Focus:** This Squad helps Dominate Club and its members master the art of Twitter growth. You'll learn strategies for creating engaging content, building your audience, and leveraging social media to achieve your goals.
   * **Founding Mentor:** [Abhinav Singhal](x.com/umunbeing) - Founder of the Dominate club who will equip you with the skills to dominate Twitter 🚀.
 
