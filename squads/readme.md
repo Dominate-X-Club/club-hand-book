@@ -48,4 +48,9 @@ Social Media Squad:
   * **Focus:** This Squad helps Dominate Club and its members master the art of Twitter growth. You'll learn strategies for creating engaging content, building your audience, and leveraging social media to achieve your goals.
   * **Founding Mentor:** [Abhinav Singhal](https://x.com/umunbeing) - Founder of the Dominate club who will equip you with the skills to dominate Twitter 🚀.
 
+#### Upcoming Squads
+* **[The Marketing Gawds](./marketing-gawds.md) (Discord: [link](https://discord.gg/EGz7b8Hz))**
+  * **Focus:** This Squad helps Dominate Club find new sponsors and mentoring actively.
+  * **Founding Mentor:** [Yash Rana](https://x.com/createsYash) - 19 Year old sales & marketing genius running a successful agency.
+  
 **Together in a Squad, you'll gain the focused support, collaboration, and camaraderie needed to thrive in the remote world.**
