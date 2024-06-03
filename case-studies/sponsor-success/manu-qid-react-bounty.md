@@ -1,7 +1,7 @@
-### Case Study: Manu Arya and Quick Identification (QID) Collaboration with Dominate X Club
+### Case Study: Manu Arya and QID Collaboration with Dominate X Club
 
 #### Background
-[Manu Arya](https://x.com/firsthumanmanu), the innovative founder of Quick Identification (QID), is a seasoned entrepreneur with a portfolio of successful startups. Despite his busy schedule, Manu harbors a vision to build a community around his product and personal brand, aiming to be recognized as a founder who inspires others. Understanding the power of community and the unique opportunities offered by Dominate X Club, Manu invested $3000 annually to become a sponsor of the club.
+[Manu Arya](https://x.com/firsthumanmanu), the innovative founder of [QID](https://oneqid.com), is a seasoned entrepreneur with a portfolio of successful startups. Despite his busy schedule, Manu harbors a vision to build a community around his product and personal brand, aiming to be recognized as a founder who inspires others. Understanding the power of community and the unique opportunities offered by Dominate X Club, Manu invested $3000 annually to become a sponsor of the club.
 
 #### Objectives
 - **Community Building**: Foster a vibrant community around QID and Manu’s personal brand.
