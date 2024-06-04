@@ -1,6 +1,11 @@
-# Members
+# Humans of Dominate X
 
 > Work in Progress
+
+## Sponsors
+- [Abhinav Singhal](./umunbeing.md)
+- Manu Arya
+- Rohan Sethi
 
 ## Members
 
