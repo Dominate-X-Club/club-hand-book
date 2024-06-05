@@ -1,5 +1,8 @@
 ### Profile Setup Page After Successful Sign-Up
 
+> We can change questions according to a person's current professional role, like she's a college grad, working professional etc
+> This way non useful screens wont come up.
+
 After a successful sign-up, the user should be guided through setting up their profile via a multi-step process. Each step should be user-friendly, allowing users to skip if desired. It's important to inform users that the information provided will be public, forming the basis of their CV for prospective clients.
 
 ### Profile Setup Multi-Step Process
