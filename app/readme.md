@@ -87,7 +87,10 @@ Live on Discord + Youtube + Twitter
 
 ## VM: Learning Track
 
-- [ ] 
+
+## Badges & Judging
+
+- [ ] Take MCQ exams, without going in background and stopping cheating (if possible)
 
 
 
