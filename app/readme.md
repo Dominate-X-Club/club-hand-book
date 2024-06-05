@@ -10,21 +10,27 @@ The Dominate X Club app is designed to create a thriving community for freelance
 #### Code Effort
 
 - [ ] [Simple Landing Page](./landing-page.md)
+   - [ ]  Inspiration
+   - [ ]  Wireframe - Abhinav
    - [ ]  Figma Design - Abhinav, Prakrati [Hands On] - Others guide
    - [ ]  React - **$5 Bounty**
 - [ ] Sign Up 
+   - [ ] Wireframe - Abhinav
    - [ ] Figma Design
    - [ ] Live Discord Explainer - Supabase Auth + Next Middleware - Ashish
    - [ ] React - Good First Issue
 - [ ] Login - Good First Issue
+   - [ ] Wireframe - Abhinav
    - [ ] Figma Design
    - [ ] Live Discord Explainer - Supabase Auth + Next Middleware - Ashish
    - [ ] React - Good First Issue
 - [ ] [Fill Resume](./complete-profile-resume.md)
+   - [ ] Wireframe - Abhinav
    - [ ] Supabase DB - Abhinav + Ashish
    - [ ] Figma - Abhinav + Prakrati
    - [ ] React - **$10 Bounty**
 - [ ] [Join Process](./joining-process.md) -> **Invite:** [Discord Server Link]()   **Win a Bounty:** [Active Bountries Discord Channel](https://discord.gg/MdGKGbYw)
+   - [ ] Wireframe - Abhinav
    - [ ] Figma - Abhinav + Prakrati
    - [ ] React - **$5 Bounty** - Beginner Bounty: Only for someone who hasn't already won a bounty
 
