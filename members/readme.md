@@ -18,12 +18,12 @@
 - Lakshya
 - Mahendra
 
-## Awaiting Invitation
-
-Add yourself here, merge PR and get an invite from the maintainer (on his discretion).
-
 ## Awaiting Bounty Win
 
 Add yourself here if you have an invite, but haven't won a bounty yet.
 
 - Shishu Ranjan
+
+## Awaiting Invitation
+
+Add yourself here, merge PR and get an invite from the maintainer (on his discretion).
