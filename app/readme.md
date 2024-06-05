@@ -2,6 +2,83 @@
 
 The Dominate X Club app is designed to create a thriving community for freelancers, digital nomads, and professionals. It helps members develop their skills, find work opportunities, and collaborate on projects. The app also facilitates networking and mentorship, providing a comprehensive ecosystem for personal and professional growth.
 
+
+## Dev Stages
+
+### MVP: Joining: 5 June - 30 June 2024
+
+#### Code Effort
+
+- [ ] [Simple Landing Page](./landing-page.md)
+   - [ ]  Figma Design - Abhinav, Prakrati [Hands On] - Others guide
+   - [ ]  React - **$5 Bounty**
+- [ ] Sign Up 
+   - [ ] Figma Design
+   - [ ] Live Discord Explainer - Supabase Auth + Next Middleware - Ashish
+   - [ ] React - Good First Issue
+- [ ] Login - Good First Issue
+   - [ ] Figma Design
+   - [ ] Live Discord Explainer - Supabase Auth + Next Middleware - Ashish
+   - [ ] React - Good First Issue
+- [ ] [Fill Resume](./complete-profile-resume.md)
+   - [ ] Supabase DB - Abhinav + Ashish
+   - [ ] Figma - Abhinav + Prakrati
+   - [ ] React - **$10 Bounty**
+- [ ] Join Process -> **Invite:** [Discord Server Link]()   **Win a Bounty:** [Active Bountries Discord Channel](https://discord.gg/MdGKGbYw)
+   - [ ] Figma - Abhinav + Prakrati
+   - [ ] React - **$5 Bounty** - Beginner Bounty: Only for someone who hasn't already won a bounty
+
+- [ ] User Roles: Visiter -> Applicant |Joining Screen Lock| -> Member -> Mentor -> Squad Founding Mentor -> Steering Squad
+
+#### Learning Track Effort
+
+Live on Discord + Youtube + Twitter
+
+##### Open For All - 14+
+- [ ] Open Source for dummies (Non Coders can also understand): Git, Github, Commits, Push, Pull, Pull Request: Hands On Club handbook -> Plus ask users to give star, fork and PR with their member page: T:Abhinav(Intro)+Ashish(Depth) S: Prakrati + Somith
+- [ ] Figma - T: Manu Arya S: Abhinav, Prakrati
+
+##### Techies - Freshers/College Grads/School Student - 16+
+- [ ] Full Stack with React & Its Ecosystem: T:Ashish S:Abhinav, Shishu, Somith
+- [ ] TailwindScss + Shadcn
+- [ ] Supabase - Auth & DB: T:Ashish S:Abhinav,Shishu, Somith
+
+
+## V1: Inviting
+
+- [ ] Home Page
+- [ ] Invitation Generation (Where an existing members generates a new invitation, after giving initial data about invitee, limited invites per month - according role in the club)
+- [ ] Redeem Invitation (where a new user enters a string of invitation code)
+- [ ] Invitation Permalink (Dedicated Page + Social Preview)
+
+## V2: Profiles
+
+- [ ] Profile Page (will show: Image, Name, Resume in various tabs, No Rank, Roles or Badges)
+- [ ] Members Page (list of members, along with their role in the club)
+
+## V2: Bounty
+
+- [ ] Bounties Page
+- [ ] Bounty Page (Details About the bounty)
+- [ ] Add Bounty (Only by steering squad)
+- [ ] Update Bounty
+- [ ] Auto Post (When bounty is added, auto posts of twitter & discord)
+
+## VL: App Deployment
+
+- [ ] Prepare App Store Assets
+- [ ] Pack with ionic/capacitor to APP 
+
+## VM: Learning Track
+
+- [ ] 
+
+
+
+## VN: Business
+
+- [ ] Add Bounty (Anyone, by paying club a x% fees -> All of $5 will be cut, x% with bounty compl, y% with no completion)
+
 ### Key Features
 
 1. **Profile Setup and Management**
