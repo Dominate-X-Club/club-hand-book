@@ -24,7 +24,7 @@ The Dominate X Club app is designed to create a thriving community for freelance
    - [ ] Supabase DB - Abhinav + Ashish
    - [ ] Figma - Abhinav + Prakrati
    - [ ] React - **$10 Bounty**
-- [ ] Join Process -> **Invite:** [Discord Server Link]()   **Win a Bounty:** [Active Bountries Discord Channel](https://discord.gg/MdGKGbYw)
+- [ ] [Join Process](./joining-process.md) -> **Invite:** [Discord Server Link]()   **Win a Bounty:** [Active Bountries Discord Channel](https://discord.gg/MdGKGbYw)
    - [ ] Figma - Abhinav + Prakrati
    - [ ] React - **$5 Bounty** - Beginner Bounty: Only for someone who hasn't already won a bounty
 
