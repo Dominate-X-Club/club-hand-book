@@ -43,6 +43,16 @@ Live on Discord + Youtube + Twitter
 - [ ] TailwindScss + Shadcn
 - [ ] Supabase - Auth & DB: T:Ashish S:Abhinav,Shishu, Somith
 
+###### By Product: React Boiler Plate Project
+- [ ] Use these 3 classes to create a boilerplate of React, Next, shadcn, supabase auth
+   - [ ] Public Dummy Landing Page
+   - [ ] Login
+   - [ ] Sign up
+   - [ ] Private Home Page
+      - [ ] Logout
+      - [ ] Sidebar
+      - [ ] Navbar
+
 
 ## V1: Inviting
 
