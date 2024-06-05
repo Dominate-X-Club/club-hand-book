@@ -192,5 +192,5 @@
 
  Thank students for their participation.
   - Briefly mention the next level (L1) and what it entails.
-  - Encourage them to review their notes and prepare for the MCQ.
+  - Encourage them to review their notes and prepare for the [MCQ](https://docs.google.com/document/d/1jFRpl1Do2DMQn9R2sbocyES8an4SwOojqzEfajk_C9k/edit?usp=sharing).
   - **Visual:** Thank you image and next steps icon.
