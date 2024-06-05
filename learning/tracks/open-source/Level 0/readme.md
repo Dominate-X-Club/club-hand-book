@@ -1,7 +1,3 @@
-Certainly! Here's a detailed set of notes for Level 0 of the Open Source Learning Track, including more data, a built-in story, and tables to compare pros and cons.
-
----
-
 ## Level 0: Introduction to Open Source
 
 ### Welcome to Open Source Learning Track - L0
