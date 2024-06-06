@@ -169,3 +169,24 @@ Shares recipes publicly to collaborate, learn, and get feedback, despite challen
    - A) MIT License
    - B) Apache License
    - C) GPL License
+
+
+---
+
+**Thank You & Next Steps**
+
+Thank you for participating in this hands-on session. Your engagement and effort are greatly appreciated. We encourage you to continue contributing to open source projects and explore further learning tracks. Keep practicing, stay curious, and happy coding!
+
+**Achievements:** Everyone whose scores 70% or more in the MCQs will receive the Level 0 badge.
+
+---
+
+**Stay Connected**
+
+This lecture was prepared by Abhinav Singhal. You can watch this session later on:
+- [Twitter](https://x.com/umunbeing)
+- [YouTube](https://www.youtube.com/channel/UCvJH8tjhhPNfOFAn1uaN80g)
+
+Please follow me on Twitter [@umunbeing](https://x.com/umunbeing) and subscribe to my YouTube channel. My GitHub profile is [github.com/iabhinav](https://github.com/iabhinav) — consider following me there as well.
+
+Also, join the Dominate X Club's Discord server [here](https://discord.gg/cGAEvjcv) for more learning sessions, bounties, notes, and to find like-minded friends and future colleagues and co-founders.
