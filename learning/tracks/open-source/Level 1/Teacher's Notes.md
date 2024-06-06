@@ -211,4 +211,13 @@
 **Content:**
   - **Thank Students:** Appreciate their participation and effort in the hands-on session.
   - **Next Steps:** Encourage them to continue contributing to open source projects and explore further learning tracks.
+  - **Achievements:** "Everyone whose pull request gets merged and scores 70% or more in the MCQs will receive the Level 1 badge and an open source contribution certificate."
+  - **Stay Connected:** "This lecture was prepared by Abhinav Singhal. You can watch this session later on Twitter at [x.com/umunbeing](https://x.com/umunbeing) or YouTube [here](https://www.youtube.com/channel/UCvJH8tjhhPNfOFAn1uaN80g)."
+  - **Follow Me:** "Please follow me on Twitter [@umunbeing](https://x.com/umunbeing) and subscribe to my YouTube channel."
+  - **GitHub Profile:** "My GitHub profile is [github.com/iabhinav](https://github.com/iabhinav) — consider following me there as well."
+  - **Join Our Discord:** "Also, join the Dominate X Club's Discord server [here](https://discord.gg/cGAEvjcv) for more learning sessions, bounties, notes, and to find like-minded friends and future colleagues and co-founders."
 **Image Suggestion:** Thank you image with motivational elements encouraging further learning.
+
+---
+
+These slides provide a comprehensive and engaging hands-on session for students, covering everything from the basics of GitHub to contributing to an open source project, with a focus on interactive learning and collaboration.
