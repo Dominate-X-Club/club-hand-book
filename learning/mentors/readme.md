@@ -1,7 +1,7 @@
 ### Become a Mentor at DominateX Club
 
 **Introduction to DominateX Club:**
-DominateX Club is an innovative, open-source, tech-driven community designed to revolutionize the way freelancers, digital nomads, and independent professionals collaborate and grow. Our mission is to create a platform where members can work together, share knowledge, and achieve unparalleled success. Unlike conventional educational platforms, DominateX Club values the intellectual property of its mentors and members, fostering a truly collaborative environment.
+[DominateX Club](https://x.com/dominatexclub) is an innovative, open-source, tech-driven community designed to revolutionize the way freelancers, digital nomads, and independent professionals collaborate and grow. Our mission is to create a platform where members can work together, share knowledge, and achieve unparalleled success. Unlike conventional educational platforms, DominateX Club values the intellectual property of its mentors and members, fostering a truly collaborative environment.
 
 **Why DominateX Club is Unique:**
 - **Open Source Philosophy:** All content created within the Club, including notes, lectures, and PPTs, is open source. This means that as a mentor, not only do you retain the copyright to your work, but you also benefit from the collective knowledge and resources of the entire community.
